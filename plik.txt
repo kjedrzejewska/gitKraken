@@ -1,2 +1,2 @@
 Pierwszy wpis.
-Zmina w gałęzni master
+Zmina w gałęzni master i Zmiana na gałęzi g001.
